@@ -1,7 +1,3 @@
-Sure! Here's a more concise and easy-to-read version of the README:
-
----
-
 # StudyNotion - Online Learning Platform
 
 **Project Overview**  
@@ -41,7 +37,3 @@ StudyNotion is an online platform where users can create accounts, purchase cour
    npm start
    ```
    Open `http://localhost:3000` in your browser to access the app.
-
----
-
-This version focuses on the essentials while keeping the instructions simple and direct. Let me know if you'd like any other changes!
